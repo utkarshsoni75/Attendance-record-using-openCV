@@ -1,7 +1,4 @@
 # Attendance-record-using-openCV
-This is the real time attendance recorder project. It uses your web cam to detect and recognize the faces and matches it with existing database, If the face matches with the image present in database it will print the name of the person and time of joining in .csv file( better to open in excel) 
-
-
 
 
 
